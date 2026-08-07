@@ -1,5 +1,9 @@
- hiii I'm nadi idk how to make lololol
+hiii I'm nadi idk how to make lololol
 
+<p align="center">
+    
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7d3ed2&center=true&vCenter=true&width=1200&lines=Don't+forget+who+you+are...." />
+   </p>
 <img width="1536" height="2048" alt="Untitled65_20260807062111" src="https://github.com/user-attachments/assets/19b95474-6c3d-4bfd-a37e-a61c9f559c13" />
 
 <table>
@@ -30,3 +34,8 @@
       $\color{#7d3ed2}{\textsf{CHECK OUT MY STRAWPAGE}}$ <br>
       $\color{#94b8f7}{\textsf{FOR AN EXTENDED LIST AND}}$ <br>
       $\color{#7d3ed2}{\textsf{⤥ MORE INFO ON YOURS TRULY!! ⤦}}$ <br>
+
+<p align="center">
+    
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7d3ed2&center=true&vCenter=true&width=1200&lines=I+love+noli+sooo+much" />
+   </p>
