@@ -22,7 +22,7 @@
       <br>
       $\color{#94b8f7}{\textsf{PEOPLE WHO Loves:}}$ <br>
       $\color{#7d3ed2}{\textsf{Noli,Elliot,Twotime,C00lkid,1×1×1×1,Azure,Noob,Dusekkar,007n7,Builderman}}$ <br>
-      $\color{#94b8f7}{\textsf{Guess1337, Chance, Guest666, Jonh doe}}$ <br>
+      $\color{#7d3ed2}{\textsf{Guess1337, Chance, Guest666, Jonh doe}}$ <br>
       $\color{#94b8f7}{\textsf{BASIC DNI CRITERIA.}}$ <br>
       $\color{#94b8f7}{\textsf{SHIP/SYSTEM DISCOURSE.}}$ <br>
       $\color{#7d3ed2}{\textsf{Dnc my skin pls and TYSM <3}}$ <br>
