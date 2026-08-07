@@ -20,7 +20,7 @@
       $\color{#7d3ed2}{\textsf{⤥ CHECK OUT MY PAGES BELOW♡ ⤦}}$ <br>
 
 
-[**PRONOUNS.PAGEএ**](https://en.pronouns.page/@N4dicandysilly) 
+[**PRONOUNS.PAGEএ**](https://en.pronouns.page/@nadioonolii) 
 
 - - 
       $\color{#303030}{\textsf{SIMPLE DNI LIST!!}}$ <br>
