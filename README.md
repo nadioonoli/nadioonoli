@@ -4,10 +4,6 @@ hiii I'm nadi idk how to make lololol
     
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7d3ed2&center=true&vCenter=true&width=1200&lines=Don't+forget+who+you+are...." />
    </p>
- 
- <table>
-  </tr>
-    <th>
         
 <img width="1536" height="2048" alt="Untitled65_20260807062111" src="https://github.com/user-attachments/assets/19b95474-6c3d-4bfd-a37e-a61c9f559c13" />
 
